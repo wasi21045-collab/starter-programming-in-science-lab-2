@@ -1,4 +1,4 @@
-# Programming in Science - Lab 1
+# Programming in Science - Lab 2
 
 This template repository is the starter project for Programming in Science Lab 1. Written in Python, and tested with Pytest.
 
