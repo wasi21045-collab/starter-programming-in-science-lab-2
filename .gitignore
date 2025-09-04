@@ -4,3 +4,6 @@ build/
 .gradle/
 __pycache__/
 .pytest_cache/
+
+# Logs
+*.log
