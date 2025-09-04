@@ -14,6 +14,7 @@ def test_calculate_height():
 # Test case for calculate_car_distance() function
 def test_calculate_car_distance():
     # Test for different time intervals
+    assert calculate_car_distance(0) == 0   # 20 * 0 = 0 meters
     assert calculate_car_distance(1) == 20   # 20 * 1 = 20 meters
     assert calculate_car_distance(2) == 40   # 20 * 2 = 40 meters
     assert calculate_car_distance(3) == 60   # 20 * 3 = 60 meters
