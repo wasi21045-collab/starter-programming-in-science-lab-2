@@ -1,5 +1,6 @@
 # Function 1: Calculate the height of the ball after time t
 # This function should take the initial height h0 and time t as inputs, and return the height at time t.
+# Round up to one decimal point
 def calculate_height(h0, t):
     # TODO: Implement this function
     pass  # Replace with your code
