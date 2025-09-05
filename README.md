@@ -6,7 +6,7 @@ This template repository is the starter project for Programming in Science Lab 2
 
 1. A ball is dropped from a height  h_0  (in meters), and after a given time  t  (in seconds), the height  h(t)  of the ball is given by the formula:
 
-![](Q1.png)
+![](free_fall.png)
 
 Where:
 - h(t)  is the height of the ball at time  t  (in meters).  
@@ -41,7 +41,7 @@ Height of the ball at time 3 seconds = 13.3 meters
 
 2. A car travels at a constant speed of 20 meters per second. Calculate the distance the car will travel in a given time t (in seconds). Use the formula:  
 
-![](Q2.png)  
+![](distance.png)  
 
 where:  
 - Speed = 20 meters/second  
